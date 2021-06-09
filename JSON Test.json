@@ -1,16 +1,26 @@
 {
   "General": [
-        "spørgsmål her",
-        "spørgsmål her",
-        "spørgsmål her",
-        "spørgsmål her",
         "spørgsmål her"
     ],
     "Would You Rather": [
-        "spørgsmål her",
-        "spørgsmål her",
-        "spørgsmål her",
-        "spørgsmål her",
+        "spørgsmål her"
+    ],
+  "BeskidteSpørgsmål": [
+        "spørgsmål her"
+    ],
+  "Teams": [
+        "spørgsmål her"
+    ],
+  "SPellerK": [
+        "spørgsmål her"
+    ],
+  "GameTime": [
+        "spørgsmål her"
+    ],
+  "TwoTimesDrink": [
+        "spørgsmål her"
+    ],
+  "Blackout": [
         "spørgsmål her"
     ]
 }
