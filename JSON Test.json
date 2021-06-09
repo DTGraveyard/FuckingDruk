@@ -1,18 +1,16 @@
 {
-  "SpørgsmålTyper": {
-    "General": [
+  "General": [
         "spørgsmål her",
         "spørgsmål her",
         "spørgsmål her",
         "spørgsmål her",
         "spørgsmål her"
     ],
-    "WouldYouRather": [
+    "Would You Rather": [
         "spørgsmål her",
         "spørgsmål her",
         "spørgsmål her",
         "spørgsmål her",
         "spørgsmål her"
     ]
-  }
 }
