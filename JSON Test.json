@@ -1,47 +1,47 @@
 {
   "Spørgsmål": {
     "General": {
-      "1": {
-        "Spørgsmål": "spørgsmål her",
-        "Type": "General",
-        "ID": 1
+        "1": {
+          "Spørgsmål": "spørgsmål her",
+          "Type": "General",
+          "ID": 1
       },
-      "2": {
-        "Spørgsmål": "spørgsmål her",
-        "Type": "General",
-        "ID": 2
+        "2": {
+          "Spørgsmål": "spørgsmål her",
+          "Type": "General",
+          "ID": 2
       },
-      "3": {
-        "Spørgsmål": "spørgsmål her",
-        "Type": "General",
-        "ID": 3
+        "3": {
+          "Spørgsmål": "spørgsmål her",
+          "Type": "General",
+          "ID": 3
       },
-      "4": {
-        "Spørgsmål": "spørgsmål her",
-        "Type": "General",
-        "ID": 4
+        "4": {
+          "Spørgsmål": "spørgsmål her",
+          "Type": "General",
+          "ID": 4
       }
     },
     "Would you rather": {
-      "1": {
-        "Spørgsmål": "spørgsmål her",
-        "Type": "General",
-        "ID": 1
+        "1": {
+          "Spørgsmål": "spørgsmål her",
+          "Type": "General",
+          "ID": 1
       },
-      "2": {
-        "Spørgsmål": "spørgsmål her",
-        "Type": "General",
-        "ID": 2
+        "2": {
+          "Spørgsmål": "spørgsmål her",
+          "Type": "General",
+          "ID": 2
       },
-      "3": {
-        "Spørgsmål": "spørgsmål her",
-        "Type": "General",
-        "ID": 3
+        "3": {
+          "Spørgsmål": "spørgsmål her",
+          "Type": "General",
+          "ID": 3
       },
-      "4": {
-        "Spørgsmål": "spørgsmål her",
-        "Type": "General",
-        "ID": 4
+        "4": {
+         "Spørgsmål": "spørgsmål her",
+          "Type": "General",
+          "ID": 4
       }
     }
   }
