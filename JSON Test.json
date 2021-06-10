@@ -6,7 +6,7 @@
         "Næste person til at drikke skal uddele (Antal) slurke"
     ],
     "Would You Rather": [
-        "Vil du hellere, kneppe din far, eller blive kneppet af din far?"
+        "Vil du hellere, kneppe din far, eller blive kneppet af din far?",
         "Vil du hellere, have sex med (Spiller), eller bo på gaden?"
     ],
   "BeskidteSpørgsmål": [
@@ -26,7 +26,7 @@
         "Two Times Drink"
     ],
   "Blackout": [
-        "Alle drikker x2 fra nu af"
+        "Alle drikker x2 fra nu af",
         "Alle drikker x3 fra nu af"
     ]
 }
