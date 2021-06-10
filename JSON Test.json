@@ -4,29 +4,5 @@
         "All drikker (Antal) slurke",
         "(Spiller) uddeler (Antal) slurke",
         "Næste person til at drikke skal uddele (Antal) slurke"
-    ],
-    "Would You Rather": [
-        "Vil du hellere, kneppe din far, eller blive kneppet af din far?",
-        "Vil du hellere, have sex med (Spiller), eller bo på gaden?"
-    ],
-  "BeskidteSpørgsmål": [
-        "Alle peger på en som (Spiller), skal kysse",
-        "Hvis du har en sort trøje på, skal du tage den af"
-    ],
-  "Teams": [
-        "Teams"
-    ],
-  "SEK": [
-        "SEK"
-    ],
-  "GameTime": [
-        "Game Time"
-    ],
-  "TwoTimesDrink": [
-        "Two Times Drink"
-    ],
-  "Blackout": [
-        "Alle drikker x2 fra nu af",
-        "Alle drikker x3 fra nu af"
     ]
 }
