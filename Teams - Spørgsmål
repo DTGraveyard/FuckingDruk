@@ -5,6 +5,7 @@
         "Hvert hold vælger en person, som skal nævne så mange pornstjerner som de kan, på 30 sekunder. Holdet med færrest nævnte, skal alle drikke (Antal) slurke",
         "Hvem kan drikke længst? En person fra hvert hold, skal drikke uden stop i så lang tid som muligt, derefter overtager en anden, det gentages til der ikke er flere. Første hold til at stoppe, drikker alle (Antal) slurke",
         "(Hold) vælger en udfordring, som (Hold2) skal udføre. Hvis ikke de kan eller vil gennemføre udfordringen, skal de alle drikke (Antal) slurke",
-        "(Hold) vælger en udfordring, som (Hold2) skal udføre. Hvis ikke de kan eller vil udføre forsøget, skal de alle drikke (Antal) slurke. Derefter vælger (Hold2) en udfordring til (Hold1), med samme kriterier"
+        "(Hold) vælger en udfordring, som (Hold2) skal udføre. Hvis ikke de kan eller vil udføre forsøget, skal de alle drikke (Antal) slurke. Derefter vælger (Hold2) en udfordring til (Hold1), med samme kriterier",
+        "(Hold) tager (Antal) slurke"
     ]
 }
